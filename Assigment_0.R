@@ -1,1 +1,0 @@
-This is my script for summarizing data.
